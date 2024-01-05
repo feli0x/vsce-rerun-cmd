@@ -6,7 +6,7 @@
   "homepage": "https://felix.surf/",
   "description": "Quickly reload or restart a terminal process by pressing cmd+r in the integrated terminal.",
   "repository": "https://github.com/feli0x/vsce-rerun-cmd",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.85.0"
   },
