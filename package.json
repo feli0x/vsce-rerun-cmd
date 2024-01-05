@@ -4,8 +4,8 @@
   "author": "Felix Swinkels",
   "publisher": "feli0x",
   "homepage": "https://felix.surf/",
-  "description": "Create code snippets in your workspace and share them with your team.",
-  "repository": "https://github.com/feli0x/vscext-rerun-cmd",
+  "description": "Quickly reload or restart a terminal process by pressing cmd+r in the integrated terminal.",
+  "repository": "https://github.com/feli0x/vsce-rerun-cmd",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.85.0"
