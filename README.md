@@ -1,14 +1,16 @@
 # Rerun CMD
 
-Restart processes in VSCode like a breeze! This nifty extension lets you quickly restart the last stopped or current active process in your integrated terminal. Just select your terminal and hit Cmd+R (Mac) or Ctrl+R (Windows/Linux).
+**Restart processes in VSCode with ease!** The "Rerun CMD" extension allows you to quickly restart the last stopped or current active process in your integrated terminal with simple keyboard shortcuts.
 
-## How to Use
+## Installation
 
-- Install: Grab it from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=feli0x.rerun-cmd).
-- Select a Terminal: Click on the integrated terminal you want to restart.
-- Restart: Press Cmd+R (Mac) or Ctrl+R (Windows/Linux). 
+Install it from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=feli0x.rerun-cmd).
 
-That's it!
+## Commands
+
+- `CMD+SHIFT+R` (Mac) / `CTRL+SHIFT+R` (Windows/Linux): Restart the most recently selected or active terminal.
+
+- `CMD+R` (Mac) / `CTRL+R` (Windows/Linux): Restart selected terminal.
 
 ## Contribute
 
@@ -16,4 +18,4 @@ Got questions or ideas? Check out the [repository on GitHub](https://github.com/
 
 ## License
 
-MIT.
+MIT
